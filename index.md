@@ -41,13 +41,13 @@ By the end of the course, you will be able to ...
 
 **In Person Meetings:** August 2-4 2022, October 26-29 2022, January 11-13 2023
 
-| Activity |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tue, July 5         | [Introduction in Moodle] |  
-| 2 |  Thu, July 7          | Survey in Moodle  |
-|  3 |  Mon, July 11         | [Leadership Readings in Moodle] |
-| 4 |  Mon, July 25        | [Leadership Moodle Discussion]
-| 5 |  Tue, Aug 2       | In person Meeting |
+| Activity |          Date Assigned      |        Due Date        |                 Topics                  |
+|:-----:|:----------------------:|:----------------------:|:---------------------------------------:|
+|  1 |  Tue, July 5    | Fri, July 8       | [Introduction in Moodle] |  
+| 2 |  Thu, July 7      |  Fri, July 8       | Survey in Moodle  |
+|  3 |  Mon, July 11    |    Mon, July 25     | [Leadership Readings in Moodle] |
+| 4 |  Mon, July 25   |     Mon, Aug 1     | [Leadership Moodle Discussion]
+| 5 |  Tue, Aug 2    |      N/A   | In person Meeting |
 
 
 ---
